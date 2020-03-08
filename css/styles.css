@@ -1,0 +1,30 @@
+body {
+  background-color: #ffd5d5;
+}
+
+hr {
+  border: 1px solid #fff1e9;
+
+
+}
+
+.begin {
+  text-align: center;
+  margin:auto;
+  width: 75%;
+
+}
+h1, .pink{
+  color: #fc7fb2;
+
+}
+
+h2 {
+  text-align: center;
+  color: #fff1e9;
+}
+
+p{
+  text-align: center;
+  color: #45454d;
+}
