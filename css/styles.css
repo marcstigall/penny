@@ -4,19 +4,16 @@ body {
 
 hr {
   border: 1px solid #fff1e9;
-
-
 }
 
 .begin {
   text-align: center;
-  margin:auto;
+  margin: auto;
   width: 75%;
-
 }
-h1, .pink{
-  color: #fc7fb2;
 
+h1, .pink {
+  color: #fc7fb2;
 }
 
 h2 {
@@ -24,7 +21,14 @@ h2 {
   color: #fff1e9;
 }
 
-p{
+p {
   text-align: center;
   color: #45454d;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
 }
